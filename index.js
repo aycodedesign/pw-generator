@@ -25,3 +25,5 @@ function generatePw() {
   password1.textContent = createPassword1
   password2.textContent = createPassword2
 }
+
+
